@@ -18,7 +18,7 @@ Produce an algorithm which will complete a Sudoku. Sudokus are simple mathematic
 </figure>
 
 <figure class="image">
-  <img src="solved_blank_sudoku.png"
+  <img src="images/sudoku.png"
      alt="sudoku blank"
      style="" /> 
   <figcaption><i> 
@@ -43,7 +43,7 @@ The high level view of the implemented algorithm, the following steps are demons
 5) Continues the process  - in <i>figure 3</i> the first line has been completed successfully and is in line with <i>figure 1</i> the rules of sudoku
 
 <figure class="image">
-  <img src="sudoku run through.png"
+  <img src="images/sudoku-run-through.png"
      alt="sudoku blank"
      style="" /> 
   <figcaption><i> 
